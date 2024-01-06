@@ -12,4 +12,4 @@ Hi 👋 My name is Duy
                       href="http://www.github.com/DuyDangCode"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=DuyDangCode&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
-![](https://leetcard.jacoblin.cool/21520774?ext=heatmap)
+![](https://leetcard.jacoblin.cool/21520774?ext=contest)
