@@ -9,6 +9,5 @@ Hi 👋 My name is Duy
 </p>
 <p align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyDangCode&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 ![](https://leetcard.jacoblin.cool/21520774?ext=heatmap)
