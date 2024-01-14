@@ -9,5 +9,3 @@ Hi 👋 My name is Duy
 </p>
 <p align="left">
 
-
-![](https://leetcard.jacoblin.cool/21520774?ext=heatmap)
