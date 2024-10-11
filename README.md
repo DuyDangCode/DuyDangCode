@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy
 
 - 🌍  I'm based in Ho Chi Minh City
-- ✉️  You can contact me at [21520774@gm.uit.edu.vn](mailto:21520774@gm.uit.edu.vn)
+- ✉️  You can contact me at [21520774@gm.uit.edu.vn](mailto:ndt.duy.dev@gmail.com)
 ### Language
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
