@@ -46,7 +46,8 @@
  Codewars
 </p>
 <img src="https://www.codewars.com/users/DuyDangCode/badges/large" /> 
-![Leetcode Stats](https://leetcard.jacoblin.cool/21520774)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/21520774)]
 
 
 
